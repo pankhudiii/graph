@@ -1,3 +1,5 @@
+GRAPH EXPANSION 
+
 Generated Output :
 Enter the number of nodes in the graph
 6
